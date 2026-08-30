@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record id="ai_erp_dashboard_menu_root" model="ir.ui.menu">
+            <field name="name">AI ERP</field>
+            <field name="sequence">51</field>
+        </record>
+
+        <record id="ai_erp_dashboard_menu" model="ir.ui.menu">
+            <field name="name">ERP Dashboard</field>
+            <field name="parent_id" ref="ai_erp_dashboard_menu_root"/>
+            <field name="action" ref="ai_operations_dashboard.action_ai_dashboard"/>
+            <field name="sequence">10</field>
+        </record>
+
+        <record id="ai_erp_automation_menu" model="ir.ui.menu">
+            <field name="name">ERP Automation Rules</field>
+            <field name="parent_id" ref="ai_erp_dashboard_menu_root"/>
+            <field name="action" ref="ai_operations_dashboard.action_ai_automation_rules"/>
+            <field name="sequence">20</field>
+        </record>
+
+        <record id="ai_erp_settings_menu" model="ir.ui.menu">
+            <field name="name">AI Settings</field>
+            <field name="parent_id" ref="ai_erp_dashboard_menu_root"/>
+            <field name="action" ref="ai_operations_dashboard.action_ai_config_settings"/>
+            <field name="sequence">30</field>
+        </record>
+    </data>
+</odoo>
