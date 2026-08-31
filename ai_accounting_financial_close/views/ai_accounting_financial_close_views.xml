@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <record id="action_ai_accounting_financial_close" model="ir.actions.act_window">
-        <field name="name">AI Accounting & Financial Close Automation Suite</field>
+        <field name="name">AI Accounting &amp; Financial Close Automation Suite</field>
         <field name="res_model">ai.accounting.close</field>
         <field name="view_mode">tree,form</field>
     </record>
@@ -38,7 +38,7 @@
     </record>
 
     <record id="ai_accounting_financial_close_menu_root" model="ir.ui.menu">
-        <field name="name">AI Accounting & Financial Close Automation Suite</field>
+        <field name="name">AI Accounting &amp; Financial Close Automation Suite</field>
         <field name="sequence">70</field>
     </record>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <record id="action_ai_hr_workforce" model="ir.actions.act_window">
-        <field name="name">AI HR Workforce Management & Attendance Fraud Detection</field>
+        <field name="name">AI HR Workforce Management &amp; Attendance Fraud Detection</field>
         <field name="res_model">ai.hr.attendance</field>
         <field name="view_mode">tree,form</field>
     </record>
@@ -38,7 +38,7 @@
     </record>
 
     <record id="ai_hr_workforce_menu_root" model="ir.ui.menu">
-        <field name="name">AI HR Workforce Management & Attendance Fraud Detection</field>
+        <field name="name">AI HR Workforce Management &amp; Attendance Fraud Detection</field>
         <field name="sequence">70</field>
     </record>
 
