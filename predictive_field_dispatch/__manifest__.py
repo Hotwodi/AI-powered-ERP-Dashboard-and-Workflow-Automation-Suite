@@ -17,7 +17,6 @@
     'data': [
         'security/ir.model.access.csv',
         'views/predictive_field_dispatch_views.xml',
-        'views/menu.xml',
     ],
     'installable': True,
     'application': False,

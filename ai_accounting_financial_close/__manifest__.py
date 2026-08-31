@@ -17,7 +17,6 @@
     'data': [
         'security/ir.model.access.csv',
         'views/ai_accounting_financial_close_views.xml',
-        'views/menu.xml',
     ],
     'installable': True,
     'application': False,
