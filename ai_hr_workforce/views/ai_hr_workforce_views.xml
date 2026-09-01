@@ -3,7 +3,7 @@
     <record id="action_ai_hr_workforce" model="ir.actions.act_window">
         <field name="name">AI HR Workforce Management &amp; Attendance Fraud Detection</field>
         <field name="res_model">ai.hr.attendance</field>
-        <field name="view_mode">tree,form</field>
+        <field name="view_mode">list,form</field>
     </record>
 
     <record id="view_ai_hr_workforce_tree" model="ir.ui.view">

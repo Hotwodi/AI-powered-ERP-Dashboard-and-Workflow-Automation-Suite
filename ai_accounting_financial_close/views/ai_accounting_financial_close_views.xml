@@ -3,7 +3,7 @@
     <record id="action_ai_accounting_financial_close" model="ir.actions.act_window">
         <field name="name">AI Accounting &amp; Financial Close Automation Suite</field>
         <field name="res_model">ai.accounting.close</field>
-        <field name="view_mode">tree,form</field>
+        <field name="view_mode">list,form</field>
     </record>
 
     <record id="view_ai_accounting_financial_close_tree" model="ir.ui.view">

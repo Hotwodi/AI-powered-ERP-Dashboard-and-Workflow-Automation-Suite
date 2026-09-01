@@ -3,7 +3,7 @@
     <record id="action_predictive_field_dispatch" model="ir.actions.act_window">
         <field name="name">Predictive Field Dispatch Optimizer</field>
         <field name="res_model">ai.dispatch.job</field>
-        <field name="view_mode">tree,form</field>
+        <field name="view_mode">list,form</field>
     </record>
 
     <record id="view_predictive_field_dispatch_tree" model="ir.ui.view">
