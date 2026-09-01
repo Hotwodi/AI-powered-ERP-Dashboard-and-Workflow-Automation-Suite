@@ -1,1 +1,6 @@
 ﻿# AI-powered-ERP-Dashboard-and-Workflow-Automation-Suite
+## Demo Video
+
+Watch a full demonstration of this module's features and quality:
+
+[https://youtu.be/A6ziG72MSH4](https://youtu.be/A6ziG72MSH4)
