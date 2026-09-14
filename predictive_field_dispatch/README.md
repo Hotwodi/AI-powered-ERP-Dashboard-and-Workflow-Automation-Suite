@@ -4,7 +4,7 @@ Predictive dispatch optimizer for field service: route, skill, availability, and
 
 ## Price
 
-$149.0 USD / month
+$150.00 USD / month
 
 ## Features
 

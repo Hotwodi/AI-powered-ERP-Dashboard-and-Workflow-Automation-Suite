@@ -4,7 +4,7 @@ AI-powered accounting automation for financial close, reconciliations, anomaly d
 
 ## Price
 
-$199.0 USD / month
+$200.00 USD / month
 
 ## Features
 
